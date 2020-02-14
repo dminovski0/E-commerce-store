@@ -1,0 +1,37 @@
+.sliki {
+	border:10px solid #ffffff;
+	background-color:#888888;
+}
+
+.sliki:hover {
+	border-color:#777777;
+	transition:all 1s ease;
+	transform:scale(1.5);
+	transform:rotate(15deg);
+}
+
+body {
+	background-color:#777777;
+}
+
+figure.figura {
+	vertical-align:top;
+	display:inline-block;
+	text-align:center;
+	text-decoration:none;
+}
+
+.tekst {
+	display:block;
+	text-decoration:none;
+}
+th, td, tr{
+  border: 1px solid;
+}
+
+#koshnica {
+	margin-top: 30px;
+  padding: 20px;
+  border: 2px solid;
+  background: lightgreen;
+}
